@@ -15,6 +15,7 @@
 	<div class="bg bg2"></div>
 	<div class="bg bg3"></div>
 
+
 	<header>
 		<h1 class="page-title">ログイン</h1>
 	</header>
